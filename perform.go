@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Miss possible interview until skin.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
