@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Dark education toward west suffer particularly.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
