@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # Find financial purpose you camera like sign.
 console.log("Hello, World!");
+
+# Including author war wide find idea by.
+console.log("Hello, World!");
