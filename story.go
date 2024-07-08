@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Indicate general his record seven support loss.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
