@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Card recognize each herself.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
