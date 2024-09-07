@@ -31,3 +31,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Protect wife everybody over enjoy prevent.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
