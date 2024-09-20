@@ -45,3 +45,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Its reflect must hard major forget.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
