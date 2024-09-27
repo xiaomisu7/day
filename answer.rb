@@ -8,3 +8,6 @@ puts "Hello, World!"
 
 # Stock child computer race early.
 puts "Hello, World!"
+
+# Wife look since.
+puts "Hello, World!"
