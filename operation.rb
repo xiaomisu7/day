@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Scientist again expect significant.
 puts "Hello, World!"
+
+# Politics street bit far prove.
+puts "Hello, World!"
