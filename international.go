@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Special right what police evening.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
